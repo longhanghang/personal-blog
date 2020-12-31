@@ -78,8 +78,8 @@ module.exports = {
      */
 
     valineConfig: {
-      appId: 'AOCxVX13nnXd3Y3CQun6V0wX-gzGzoHsz',// your appId
-      appKey: 'o50wncrGRq2a9yeft8MJf4UN', // your appKey
+      appId: 'pYIdH2cAGiKBr0POayNKYlqb-9Nh9j0Va',// your appId
+      appKey: 'wTrruAUgQS5EhivlHqpJADuY', // your appKey
       placeholder:'赶快来留言吧',
     }
   },

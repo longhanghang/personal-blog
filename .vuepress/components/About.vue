@@ -1,7 +1,7 @@
 <template>
     <div id = "about-me">
             <section class = "video">
-                <video src="/video/aboutme.mp4" height = "435px" autoplay controls loop>
+                <video src="/video/aboutme.mp4" width = "100%" height = "435px" autoplay controls loop>
                 您的浏览器不支持 video 标签。
                 </video>
             </section>

@@ -4,7 +4,7 @@ heroText: 折腾行
 tagline: Everything is possible.
 bgImage: '/image/home-bg.png'
 bgImageStyle: {
-  height: '850px',
+  height: '700px',
 
 }
 isShowTitleInHome: false

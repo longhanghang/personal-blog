@@ -6,10 +6,13 @@
 </template>
 
 <script>
-    import botui from 'botui'
+    import BotUI from 'botui'
     import vue from 'vue/dist/vue.esm.js';
     export default{
         name: 'Message',
+        components:{
+			BotUI
+		},
         created(){
         },
         mounted(){
