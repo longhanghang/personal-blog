@@ -3,7 +3,7 @@
  * @Author: longhang
  * @Date: 2021-06-25 15:46:54
  * @LastEditors: longhang
- * @LastEditTime: 2022-03-04 18:02:49
+ * @LastEditTime: 2024-03-18 20:11:29
  */
 module.exports = {
   title: "折腾行",
@@ -85,8 +85,8 @@ module.exports = {
      */
 
     valineConfig: {
-      appId: 'AOCxVX13nnXd3Y3CQun6V0wX-gzGzoHsz',// your appId
-      appKey: 'o50wncrGRq2a9yeft8MJf4UN', // your appKey
+      appId: 'pYIdH2cAGiKBr0POayNKYlqb-9Nh9j0Va',// your appId
+      appKey: 'wTrruAUgQS5EhivlHqpJADuY', // your appKey
       placeholder:'赶快来留言吧',
     }
   },

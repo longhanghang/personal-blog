@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @Author: longhang
+ * @Date: 2021-06-25 15:46:54
+ * @LastEditors: longhang
+ * @LastEditTime: 2024-03-18 20:08:51
+-->
 <template>
     <div id = "about-me">
             <section class = "video">
@@ -21,8 +28,6 @@
              <section class = "work">
                   <h1><center class = "education-title">工作</center></h1>
                    <dl>
-                    <dt><span class = "education-subtitle">重庆诺坏软件</span></dt>
-                    <dd>这是我毕业后的第一家公司，在这家公司我学会了很多技术和做人的道理，谢谢诺怀这个平台。</dd>
                     <dt><span class = "education-subtitle">永辉金融</span></dt>
                     <dd>很喜欢永辉金融这个平台，在为公司贡献的同时能学到很多技术以及金融相关的知识.</dd>
                   </dl>
